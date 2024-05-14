@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Telenorba.it" tvg-logo="https://play.norbaonline.it/logo-norba.efab5b2d.png" group-title="Italy",TeleNorba
+http://stream2.xdevel.com/video2s976570-2303/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="ITALY",51 Radio TV
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ALTO ADIGE TV [480p]
