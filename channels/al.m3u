@@ -1,4 +1,72 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="Albania",Vizion Plus
+https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-logo="https://i.imgur.com/rL2v9pM.png" group-title="Alb-News",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="EuroNewsAlbania.al" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Alb-News",Euronews Albania
+https://ythls.armelin.one/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-logo="https://i.imgur.com/TgO3Lzi.png" group-title="Alb-News",A2 CNN
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="Albania",Tropoja Televizion
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-logo="https://i.imgur.com/Pr4ixiA.png" group-title="Albania",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="KorcaPlus.al" tvg-logo="https://i.imgur.com/RiDrVLx.png" group-title="Albania",Korca Plus
+http://32.shqiptv.org:8080/korca/albplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-logo="https://i.imgur.com/TMg4Kxi.png" group-title="Albania",Alb UK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-logo="https://codeit.al/wp-content/uploads/2020/08/cna.png" group-title="Alb-News",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-logo="https://i.imgur.com/C9lM1KP.png" group-title="Alb-News",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-logo="https://i.imgur.com/eG33jue.png" group-title="Alb-News",News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv.al" tvg-logo="https://i.imgur.com/gtZLzxq.png" group-title="Alb-News",ntv
+https://protokolldns.xyz/ntv/livestream9956544786625444/index.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png" group-title="Alb-News",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/512px-Panorama_logo.svg.png" group-title="Alb-News",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="Music",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="FolkloritTV.al" tvg-logo="https://i.imgur.com/wayxz5S.jpg" group-title="Music",Folklorit TV
+https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
+#EXTINF:-1 tvg-id="albdreamsal" tvg-logo="" group-title="Music",Alb Dreams
+http://live.albavision.net:1123/live/albdreams.m3u8
+#EXTINF:-1 tvg-id="RTK1.xk" tvg-logo="https://i.imgur.com/KTcWcO6.png" group-title="Kosove",RTK 1
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTK2.xk" tvg-logo="https://i.imgur.com/g6k6xyO.png" group-title="Kosove",RTK 2
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/g7t-zdp-y08-eig/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTK3.xk" tvg-logo="https://i.imgur.com/Ut9VcT3.png" group-title="Kosove",RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/ume-3p1-sao-ssa/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTK4.xk" tvg-logo="https://i.imgur.com/Urm4XDR.png" group-title="Kosove",RTK 4
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/o9w-k53-7pb-m78/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTK1Sat.xk" tvg-logo="https://i.imgur.com/LtorccS.png" group-title="Kosove",RTK SAT
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/dmp-rur-lsn-tv5/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTV21.xk" tvg-logo="https://i.imgur.com/AqQltGh.png" group-title="Kosove",RTV 21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kohavision.xk" tvg-logo="https://i.imgur.com/LOi9yma.png" group-title="Kosove",KTV
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="T7.xk" tvg-logo="https://i.imgur.com/b7FvSJj.png" group-title="Kosove",T7
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVSyri.xk" tvg-logo="https://i.imgur.com/ZQuFosn.png" group-title="Kosove",SYRI
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="ATV.xk" tvg-logo="https://i.imgur.com/lX6sekx.png" group-title="Kosove",ATV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="ziko.xk" tvg-logo="https://zico.tv/wp-content/uploads/2020/01/logo-50-px.png" group-title="Kosove",ZIKO
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="PRO1.xk" tvg-logo="https://pro1.tv/wp-content/uploads/2022/06/Pro1logo.png" group-title="Kosove",PRO1
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVArta.xk" tvg-logo="https://i.imgur.com/MAhJkK9.png" group-title="Kosove",ARTA
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kosove",TV NEWS
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/js0-h8f-ifx-29f/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZeriTV.xk" tvg-logo="https://i.imgur.com/nx03blS.png" group-title="Kosove",ZERI
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/jo8-76n-lmx-tv0/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kosove",ADN
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/trw-ffi-21k-buh/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="TvPrizreni.xk" tvg-logo="https://artv.watch/cdn/channel/TVPrizreni.xk?width=50" group-title="Kosove",Tv Prizreni
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="(AL) Albania",HADATH (1+) | SD (AL)
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://balkanweb.com/news24/live/images/logolive.png" group-title="ALBANIA",News 24
